@@ -1,0 +1,5 @@
+jdbc:sqlserver://192.168.1.1\\mssqlserver;user=erp;password=123
+13
+http://cbs.zong.com.pk/reachrestapi/home/SendQuickSMS
+923001234574
+Test@123
